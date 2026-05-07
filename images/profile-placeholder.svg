@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">Minimal placeholder panel for a professional portrait image.</desc>
+  <rect width="480" height="600" fill="#eceae4"/>
+  <rect x="36" y="36" width="408" height="528" fill="#f8f6f1" stroke="#cfd3d7" stroke-width="2"/>
+  <circle cx="240" cy="208" r="74" fill="#d8dce0"/>
+  <path d="M132 440c18-76 74-120 108-120s90 44 108 120" fill="#d8dce0"/>
+  <path d="M104 512h272" stroke="#b7bcc2" stroke-width="2"/>
+  <text x="240" y="86" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="3" fill="#5d6169">PORTRAIT IMAGE</text>
+  <text x="240" y="108" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#7a7f87">REPLACE WITH YOUR PHOTO</text>
+</svg>

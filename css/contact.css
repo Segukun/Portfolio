@@ -1,0 +1,14 @@
+.contact-layout {
+  max-width: 720px;
+}
+
+.contact-list {
+  display: grid;
+  gap: 18px;
+}
+
+.contact-notes {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
